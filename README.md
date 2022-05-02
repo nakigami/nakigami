@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nakigami&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakigami&langs_count=10&layout=compact&theme=radical" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakigami&theme=radical)
+<br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakigami&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
