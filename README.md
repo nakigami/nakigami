@@ -8,7 +8,12 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://fr.linkedin.com/in/anas-riani-027091139"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<div id="badges">
+  <a href="https://fr.linkedin.com/in/anas-riani-027091139">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 </br>
 
 ### GitHub Stats
