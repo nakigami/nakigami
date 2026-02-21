@@ -35,11 +35,10 @@
 
 </br>
 
-### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nakigami&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br />
-<br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakigami&theme=radical)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakigami&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+
+![](https://streak-stats.demolab.com?user=nakigami&theme=react)
+
+![](https://github-readme-stats.vercel.app/api?username=nakigami&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nakigami&layout=compact&theme=radical)
