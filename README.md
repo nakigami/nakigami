@@ -1,39 +1,113 @@
+# 🚀 Anas Riani
 
-### Hi I'm Anas Riani
-- 🔭 I’m currently a software craftsman engineer (Java / Spring Boot / React / Angular)
-- 🌱 I’m currently learning management to be a Team Manager
-- 👀 I'm so intersted in Clean Architecture / TDD / BDD / DDD / Clean code
-- 👯 I'm open to new career opportunities
-- ⚡ I love traveling & watching series
+## LLM Systems Engineer | Open-Weight AI Infrastructure | Scalable Inference & Evaluation | MLOps
 
-### :hammer_and_wrench: Languages and Tools 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+I design and operate production-grade LLM systems with a strong background in distributed systems (Java / Spring Boot) and modern full-stack engineering (React / TypeScript).
 
+My focus is building reliable, observable and scalable AI systems — from open-weight model deployment to evaluation and monitoring in production environments.
 
-### 🤝 Connect with me
+---
 
-<div id="badges">
-  <a href="https://fr.linkedin.com/in/anas-riani-027091139">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+## 🎯 Current Focus
 
-</br>
+- 🧠 Open-weight LLM deployment (optimized inference, batching, streaming)
+- 🔎 RAG systems with structured evaluation frameworks
+- ⚙️ Multi-agent orchestration (LangGraph)
+- 🔁 End-to-end MLOps pipelines (training → evaluation → deployment → monitoring)
+- 📊 AI observability (latency, hallucination tracking, drift detection)
+- ☁️ Cloud-native AI systems (AWS / Azure / GCP)
+
+---
+
+## 🧠 AI & ML Stack
+
+### Languages
+- Python (ML systems, inference, orchestration)
+- Java (high-performance backend systems)
+- TypeScript (AI dashboards & frontends)
+
+### AI / ML
+- PyTorch
+- Transformers ecosystem
+- RAG architectures
+- LangGraph / LangChain
+- Vector databases
+- Evaluation pipelines
+
+### MLOps
+- CI/CD for ML systems
+- Model deployment automation
+- Experiment tracking
+- Benchmarking frameworks
+- Monitoring & observability
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+- AWS (ECS, Lambda, S3, SageMaker)
+- Azure (ML, Container Apps, DevOps)
+- GCP (Cloud Run, Vertex AI)
+- Docker / Kubernetes
+- Distributed inference services
+- GPU workloads
+
+---
+
+## 🏗 What I Build
+
+- Production-ready LLM inference APIs
+- RAG pipelines with evaluation & scoring
+- AI microservices (Python & Java)
+- Multi-agent systems using LangGraph
+- AI gateways & scalable backend services
+- Monitoring dashboards for AI systems
+- MCP-driven AI integrations
+
+---
+
+## 🧩 Engineering Philosophy
+
+I apply software craftsmanship principles to AI systems:
+
+- Clean Architecture for ML pipelines
+- DDD applied to AI microservices
+- Testable and modular LLM workflows
+- Observability-first design
+- Performance & cost optimization mindset
+
+AI systems should be:
+> measurable, scalable, reliable, and production-ready.
+
+---
+
+## 📦 Selected Areas of Exploration
+
+This GitHub reflects my work on:
+
+- LLM inference optimization
+- AI evaluation tooling
+- RAG system benchmarking
+- AI observability
+- Distributed AI backends
+- Full-stack AI applications
+
+---
+
+## 🤝 Open To
+
+- LLM Infrastructure Engineering roles
+- AI Platform / MLOps Engineering
+- Open-source AI contributions
+- Senior / Staff AI Engineering opportunities
+
+---
+
+## 🌍 Connect with me
+
+[LinkedIn](https://fr.linkedin.com/in/anas-riani-027091139)
+
+---
 
 ### 📊 GitHub Stats
 
